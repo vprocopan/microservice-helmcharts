@@ -20,8 +20,6 @@ spec:
           value: "1nOOlPfrLLyR4NZt3oeuCgdzXejgelum"
         - name: crds.install
           value: "true"
-        - name: controller.globalCredentials.namespaces
-          value: "kargo"
   syncPolicy:
     automated:
       prune: true
