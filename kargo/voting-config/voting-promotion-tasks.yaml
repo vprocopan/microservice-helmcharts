@@ -6,7 +6,7 @@ metadata:
 spec:
   vars:
     - name: image
-      value: docker.io/nitheesh86/microservice-voting
+      value: docker.io/vprocopan/microservice-voting
     - name: repoURL
       value: https://github.com/vprocopan/microservice-helmcharts
     - name: branch

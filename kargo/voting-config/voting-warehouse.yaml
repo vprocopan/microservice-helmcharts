@@ -8,6 +8,6 @@ spec:
   interval: 1440m
   subscriptions:
     - image:
-        repoURL: docker.io/nitheesh86/microservice-voting
+        repoURL: docker.io/vprocopan/microservice-voting
         imageSelectionStrategy: SemVer
         discoveryLimit: 20

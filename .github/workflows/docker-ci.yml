@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_HUB_USERNAME: nitheesh86
+  DOCKER_HUB_USERNAME: vprocopan
   DOCKER_HUB_REPOSITORY: microservice-frontend
 
 jobs:
