@@ -38,6 +38,7 @@ spec:
     - uses: git-push
       config:
         path: ./out
+        repoURL: ${{ vars.repoURL }}
 
     - uses: argocd-update
       config:
