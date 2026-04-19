@@ -15,7 +15,7 @@ spec:
     helm:
       parameters:
         - name: api.adminAccount.passwordHash
-          value: "$$2y$$10$$GeMd2gLHaRU1It7mYcaOp.CrcEizZA6GDSiA8cEeUAYKApqnPoVWC"
+          value: "$2y$10$PeaQSObx48DyhuL5tSwK2Ov0F7Qj4A06HbpJ0lcz7WijLUv4n0rfa"
         - name: api.adminAccount.tokenSigningKey
           value: "1nOOlPfrLLyR4NZt3oeuCgdzXejgelum"
         - name: crds.install
